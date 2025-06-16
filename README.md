@@ -20,7 +20,7 @@ Aplicação de linha de comando para controle de estoque de produtos alimentíci
 - Validação de entrada de dados
 - Relatórios de produtos cadastrados
 
-- ### 🔧 Pré-requisitos
+### 🔧 Pré-requisitos
 
 - Java JDK 8 ou superior
 - Banco de dados relacional (ex: MySQL, PostgreSQL, SQLite)
